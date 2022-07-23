@@ -11,7 +11,7 @@
 2.  全职高手
 3.  盗墓笔记 
 #  
-## 关于回文数
+## 我学过的编程语言有 `html` `css` `javascript`，下面是一段截取代码
 ```javascript
 /**
  * @param {number} x
